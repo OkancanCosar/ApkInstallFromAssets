@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AssettenApkYukle</string>
+
+    <string name="asset_apk_folder">rar</string>
+    <string name="temp_apk_folder">/</string>
+    <string name="msg">Apkleri Yüklemeye Başla</string>
+
+</resources>
